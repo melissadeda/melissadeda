@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @melissadeda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋  olá meu nome é melissadeda
+- :+1: meu email de contato é melissa.deda@esccola.pr.gov.br
+- 👀  eu estou interessado em aprender a progamar  novas linguegens
+- 🌱 I’m currently learning  a programar  recentemente a linguagem de scratch
+
 
 <!---
 melissadeda/melissadeda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
